@@ -1,0 +1,6 @@
+{
+  "name": "KapakAI - Ürün Kapak ve Reklam Görseli Stüdyosu",
+  "description": "Ürün fotoğraflarınız için otomatik arka plan temizleme, yapay zeka destekli estetik sahne kompozisyonları ve profesyonel e-ticaret kapak tasarımı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
